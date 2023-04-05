@@ -6,6 +6,8 @@ Final project for the course "Professional Certificate in Coding: Full Stack Dev
 
 The purpose is to demostrate a Bank's app with "full" functionality
 
+Only a README file in this repositorie at the moment.
+
 ### Installation
 
 It assumes you have Node (NPM), Docker Desktop, Nodemon
